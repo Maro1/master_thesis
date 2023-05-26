@@ -1,0 +1,21 @@
+torch==1.10.0
+torchvision==0.11.1
+torchaudio===0.10.0 -f https://download.pytorch.org/whl/cu113/torch_stable.html
+ninja 
+xatlas 
+gdown
+git+https://github.com/NVlabs/nvdiffrast/
+meshzoo 
+ipdb 
+imageio 
+gputil 
+h5py 
+point-cloud-utils 
+imageio 
+imageio-ffmpeg==0.4.4 
+pyspng==0.1.0
+urllib3
+scipy
+click
+tqdm
+opencv-python==4.5.4.58

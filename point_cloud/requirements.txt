@@ -1,0 +1,4 @@
+tinyobjloader==2.0.0rc9
+pyntcloud
+pandas
+numpy
